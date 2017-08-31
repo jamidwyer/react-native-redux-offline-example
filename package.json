@@ -1,0 +1,25 @@
+{
+  "name": "sync",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^20.0.0",
+    "lodash": "^4.17.4",
+    "react": "16.0.0-alpha.12",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-20.0.0.tar.gz",
+    "react-redux": "^5.0.6",
+    "reactotron-react-native": "^1.12.2",
+    "redux": "^3.7.2",
+    "redux-offline": "^2.0.0",
+    "redux-persist": "^4.9.1",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0",
+    "redux-logger": "^3.0.6"
+  }
+}
